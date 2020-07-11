@@ -1,4 +1,5 @@
 # Cross Country Trip
+## VA :arrow_forward: CA
 Listed Charging stations:
  - [ ] Breezewood, PA
  - [ ] Cranberry, PA
